@@ -1,1 +1,1 @@
-# 42cursus-minitalk
+Minitalk is a project designed to explore inter-process communication in Unix-based systems. The goal is to create a simple messaging program where a client and a server communicate by sending and receiving signals. This project helps build an understanding of signals, process management, and low-level communication techniques, with a focus on converting and transmitting data reliably between processes.
